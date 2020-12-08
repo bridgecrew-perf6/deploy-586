@@ -12,7 +12,7 @@
 - pip(or conda) install fabric (X)
     => ptthon2.7.xx 버전에 맞게 설치가 된다
     => python3.x 버전 사용 불가
-- pip(or conda) install fabric (O)
+- pip(or conda) install fabric3 (O)
 
 # 에러체크
     - 리눅스 상에서
